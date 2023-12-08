@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(242, 243, 204);
+}
+
+#gmr {
+    color: red;
+    text-align: center;
+    background-color: black;
+    font-size: 90px;
+}
+#qs1{
+    color: rgb(148, 119, 119);
+    background-color: beige;
+}
+
+#si1{
+    color: coral;
+    background-color: aliceblue;
+    
+}
+#qh2{
+    color: darkslategrey;
+    background-color: aliceblue;
+    text-align: center;
+    font-size: 50px;
+}
+.go{
+    
+    color: rgb(99, 112, 122);
+    text-align: center;
+    font-size: 16px;
+    
+    
+}
